@@ -17,7 +17,7 @@ I'm a pre-final year undergrad student, pursuing Computer Engineering in Mumbai.
 
 Here's what I'm currently listening (most of the times on [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&width=20)](https://trcr.tk/bAGuG) ) :
 
-[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=mahan_vyakti&count=2&width=375)](https://trcr.tk/GwFVP)  
+[![My Last.fm](https://lastfm-recently-played.vercel.app/api?user=mahan_vyakti&count=2&width=375)](https://www.last.fm/user/mahan_vyakti)  
 
 
 
