@@ -10,7 +10,12 @@ I'm a pre-final year undergrad student, pursuing Computer Engineering in Mumbai.
 - 📸 I love photography, so that's what I do in my free time !
 
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=mahanvyakti&amp;show_icons=true&theme=material-palenight" alt="GitHub Stats"></p>
+<p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=mahanvyakti&amp;show_icons=true&theme=material-palenight" alt="GitHub Stats"></p>
+
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mahanvyakti&theme=dark" />
+</p>
+
 
 ### Find me here !
 [![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://trcr.tk/tb4e8) [![Gmail Badge](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajan.gaul123@gmail.com) [![Stackoverflow](https://img.shields.io/badge/-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://trcr.tk/mW17n) [![Twitter](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://trcr.tk/et2xA)
