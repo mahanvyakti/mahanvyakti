@@ -2,7 +2,7 @@
 
 ###  नमस्कार 🙏🏻, I'm Rajan !
 
-I'm a pre-final year undergrad student, pursuing Computer Engineering in Mumbai.<br> 
+I'm a final year undergrad student, pursuing Computer Engineering in Mumbai.<br> 
 
 - 👨🏻‍💻 I’m currently working on [Daybook](https://github.com/ARU-Coders/daybook). 
 - 📈 I’m currently learning Go, Socket.io as well as Data Structures & Algorithms
@@ -19,6 +19,7 @@ I'm a pre-final year undergrad student, pursuing Computer Engineering in Mumbai.
 
 ### Find me here !
 [![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://trcr.tk/tb4e8) [![Gmail Badge](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajan.gaul123@gmail.com) [![Stackoverflow](https://img.shields.io/badge/-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://trcr.tk/mW17n) [![Twitter](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://trcr.tk/et2xA)
+### Check out my [portfolio](https://mahanvyakti.netlify.app/).
 
 Here's what I'm currently listening (most of the times on [![Spotify](https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white&width=20)](https://trcr.tk/bAGuG) ) :
 
