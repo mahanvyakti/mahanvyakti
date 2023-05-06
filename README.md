@@ -2,11 +2,10 @@
 
 ###  नमस्कार 🙏🏻, I'm Rajan !
 
-I'm a final year undergrad student, pursuing Computer Engineering in Mumbai.<br> 
+I'm a Software Engineer-I at ConnectWise.<br> 
 
-- 👨🏻‍💻 I’m currently working on my final year engineering project. 
-- 📈 I’m currently learning Go, AWS as well as Data Structures & Algorithms
-- 🤝🏻 I’m looking to collaborate on MERN, flutter projects.
+- 📈 I’m currently learning System Design, AWS as well as Jetpack Compose
+- 🤝🏻 I’m looking to collaborate on Web/Mobile Application Development projects.
 - 📸 I love photography, so that's what I do in my free time !
 
 
