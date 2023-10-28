@@ -2,11 +2,11 @@
 
 ###  नमस्कार 🙏🏻, I'm Rajan !
 
-I'm a Software Engineer-I at ConnectWise.<br> 
+I'm a Software Engineer-II at ConnectWise.<br> 
 
 - 📈 I’m currently learning System Design, AWS as well as Jetpack Compose
 - 🤝🏻 I’m looking to collaborate on Web/Mobile Application Development projects.
-- 📸 I love photography, so that's what I do in my free time !
+- 📸 I love photography, so that's what I do in my free time!
 
 
 <p align="left" ><img src="https://github-readme-stats.vercel.app/api?username=mahanvyakti&amp;show_icons=true&theme=material-palenight" alt="GitHub Stats"></p>
@@ -16,7 +16,7 @@ I'm a Software Engineer-I at ConnectWise.<br>
 </p>
 
 
-### Find me here !
+### Find me here!
 [![LinkedIn](https://img.shields.io/badge/-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rajangaul/) [![Gmail Badge](https://img.shields.io/badge/-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajan.gaul123@gmail.com) [![Stackoverflow](https://img.shields.io/badge/-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/13365850/mahan-vyakti) [![Twitter](https://img.shields.io/badge/-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/RajanGaul)
 ### Check out my [portfolio](https://mahanvyakti.netlify.app/).
 
