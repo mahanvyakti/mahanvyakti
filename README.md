@@ -2,7 +2,7 @@
 
 ###  नमस्कार 🙏🏻, I'm Rajan !
 
-I'm a Software Engineer-II at ConnectWise.<br> 
+I'm a Senior Software Engineer-I at ConnectWise.<br> 
 
 - 📈 I’m currently learning System Design, AWS as well as Jetpack Compose
 - 🤝🏻 I’m looking to collaborate on Web/Mobile Application Development projects.
